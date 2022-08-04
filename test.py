@@ -1,1 +1,0 @@
-this_file = "test git delete"
